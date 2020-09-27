@@ -11,4 +11,6 @@ main {
 .landing {
     min-height:100vh;
     background-image: url("./assets/sea.jpg");
+    background-size: cover;
+    
 }
